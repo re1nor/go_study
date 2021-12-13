@@ -10,10 +10,10 @@ func main() {
 
 	var taxRate float64 = 0.08
 	var tax float64 = float64(price) * taxRate
-	fmt.Println("Tax is", int(tax), "dollars.")
+	fmt.Println("Tax is", tax, "dollars.")
 
 	var total float64 = float64(price) + tax
-	fmt.Println("Total cost is", int(total), "dollars.")
+	fmt.Println("Total cost is", total, "dollars.")
 
 	var availableFunds int = 120
 	fmt.Println(availableFunds, "dollars available.")
