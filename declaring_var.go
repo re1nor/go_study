@@ -19,7 +19,7 @@ func main() {
 	year, month, day = 2001, 12, 26
 	education = true
 
-	// Использлвание переменных
+	// Использование переменных
 	fmt.Println("Имя гражданина: ", strings.Title(name))
 	fmt.Println("Дата рождения:", day, ".", month, ".", year)
 	fmt.Println("Наличие образования:", education)
