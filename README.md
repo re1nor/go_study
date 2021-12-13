@@ -1,1 +1,1 @@
-go_study
+Tasks completed while learning the Go language
