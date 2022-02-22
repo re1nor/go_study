@@ -2,12 +2,12 @@
 	transportTask -  решение транспортной задачи линейного программирования
 
 	TODO:
-	- Возможность работы с различными размерностями 				/ ENG: Ability to work with different dimensions
+	- Возможность работы с различными размерностями 		/ ENG: Ability to work with different dimensions
 	-
 	DONE:
 	- Инициализация поставщиков, потребителей и стоимости перевозок / ENG: Initialization of suppliers, consumers and transportation costs
-	- Проверка на замкнутость 										/ ENG: Checking for closeness
-	- Заполнение 2D-массива элементами 								/ ENG: Filling a 2D array with elements
+	- Проверка на замкнутость 					/ ENG: Checking for closeness
+	- Заполнение 2D-массива элементами 				/ ENG: Filling a 2D array with elements
 	-
 */
 
